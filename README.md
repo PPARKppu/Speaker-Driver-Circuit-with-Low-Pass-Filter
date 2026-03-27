@@ -137,6 +137,12 @@ These fixes enabled proper speaker output.
 
 ---
 
+## Team
+- Hamin Park, school of electrical engineering, Korea University
+- Jiho Shin, school of electrical engineering, Korea University
+
+---
+
 ## References
 
 * Behzad Razavi, *Microelectronics*, 2nd Edition

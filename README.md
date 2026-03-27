@@ -85,9 +85,9 @@ The design process involved iterative tuning of circuit parameters:
 
 * Key trade-offs:
 
-  * Filtering strength vs signal distortion
-  * Stability vs sharp frequency response
-
+  * Flat passband (≤5 kHz) vs attenuation at 10 kHz
+  * Stability vs high Q-factor (sharp peaking)
+  
 ---
 
 ## PCB Implementation

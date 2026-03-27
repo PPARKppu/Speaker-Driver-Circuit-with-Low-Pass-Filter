@@ -43,8 +43,6 @@ The overall system consists of:
   * Linearity
   * Stability
 
----
-
 ### Sallen-Key Low Pass Filter
 
 * Second-order active filter

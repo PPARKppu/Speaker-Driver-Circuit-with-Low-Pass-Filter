@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the design and implementation of a **speaker driver circuit** integrated with a **low-pass filter (LPF)** to suppress high-frequency noise.
+This project focuses on the design and implementation of a **speaker driver circuit** with a **low-pass filter (LPF)** to suppress high-frequency noise.
 
 * **Objective**
 

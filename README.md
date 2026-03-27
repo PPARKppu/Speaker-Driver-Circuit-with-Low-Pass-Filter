@@ -99,7 +99,7 @@ The design process involved iterative tuning of circuit parameters:
 
 ---
 
-### Debugging & Issues
+### Issues
 
 During implementation, several issues were identified and resolved:
 
@@ -113,7 +113,7 @@ These fixes enabled proper speaker output.
 
 ## Final Results
 
-* Successfully implemented a working **speaker driver circuit**
+* Successfully implemented a speaker driver circuit with a low-pass filter, achieving stable output and effective attenuation at 10 kHz
 * Verified:
 
   * Stable amplification

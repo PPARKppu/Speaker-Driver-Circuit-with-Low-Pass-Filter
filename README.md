@@ -23,7 +23,7 @@ The overall system consists of:
 1. **Common Emitter (CE) Amplifier**
 2. **Bias Circuit**
 3. **Sallen-Key Low Pass Filter**
-4. **Audio Driver (LM741)**
+4. **Audio Driver (UA741)**
 
 ---
 

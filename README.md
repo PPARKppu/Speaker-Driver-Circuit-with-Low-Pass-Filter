@@ -31,7 +31,7 @@ The overall system consists of:
 
 ### Full Circuit
 
-![Full Circuit](schematics/full_circuit.png)
+![Full Circuit](schematic/Schematic.png)
 
 ### CE Amplifier
 
@@ -58,9 +58,13 @@ The overall system consists of:
 
 ## Simulation Results
 
+### Circuit Design
+
+![Circuit Design](simulation/design_simulation.jpg)
+
 ### Frequency Response
 
-![Frequency Response](simulation/freq_response.png)
+![Frequency Response](simulation/freq_response.jpg)
 
 * Flat bandwidth up to **5 kHz**
 * Significant attenuation at **10 kHz**
@@ -90,7 +94,7 @@ The design process involved iterative tuning of circuit parameters:
 
 ### Layout
 
-![PCB Layout](pcb/layout.png)
+![PCB Layout](pcb/Layout.png)
 
 * Designed using **PADS**
 * Generated and fabricated PCB
@@ -120,6 +124,16 @@ These fixes enabled proper speaker output.
 
   * Flat response under 5 kHz
   * Reduced output at 10 kHz
+ 
+### Fabricated Board
+
+![Fabricated Board](pcb/assembled_pcb.jpg)
+
+---
+
+## Reports
+- [Final Report](docs/Final_Report.pdf)
+- [PSPICE Report](docs/PSPICE_Report.pdf)
 
 ---
 
